@@ -1,0 +1,2 @@
+# DEBU
+fir training 
